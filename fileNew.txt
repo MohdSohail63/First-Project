@@ -1,1 +1,3 @@
 This is my first file of first github project !
+
+The error "Key is invalid. You must supply a key in OpenSSH public key format" happens when the SSH key format is incorrect or when you're trying to add the private key instead of the public key.

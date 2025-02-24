@@ -1,3 +1,475 @@
 This is my first file of first github project !
 
 The error "Key is invalid. You must supply a key in OpenSSH public key format" happens when the SSH key format is incorrect or when you're trying to add the private key instead of the public key.
+
+
+
+details of Sharda Sales
+username = shardasales
+password = B)44zRFke7
+
+
+details of New Sharda Sales
+username = shardasalesnew
+password = B)44zRFke7NEW
+
+
+
+details of Pawlicious Pet Care
+username = Pawlicious
+password = Pawl1354#$@
+
+
+
+#New Raylon Database details
+username = u945715491_new_raylon
+database = u945715491_new_raylon
+password = Nraylon@#4|A!t?C
+
+This is also include in textiles industry
+1 blenkit 
+2 spening
+3 woolen
+
+
+local ip
+trase out
+location
+
+
+tracert (domain name)
+
+
+packaging
+paper
+treadmill
+soap and pharma
+textilse
+  spinning
+  woolen
+tobacco
+plywood and marble
+food and beverage
+   chocolate
+   candy
+   vegitable
+   bakery
+   meat and poultry
+   bottling
+
+
+
+# New form for CTA in RTC
+firm name 
+industry/trader
+product name 
+colour 
+size....length, width, thickness 
+email 
+no.
+address
+quote  
+
+
+
+
+Lifecan Superadmin login id and password
+username = superadmin@elarafy.com
+password = Lifecan@53#$0
+
+
+one another account of Lifecan
+username = superadmin@elarafy.com
+password = Life435$#@&
+
+
+DATABASE details of LifeinCan
+Database = lifeincan
+username = lifeincan
+password = 4RvfA;C)FAPX
+
+
+DATABASE details of LifeinCan
+ip = 107.180.114.43
+username = lifeincan@lifeincan.ca
+password = !G5GfU@cB*qr
+
+
+  
+
+
+
+#packaging               Paper                       plywood/marble            treadmill           textiles                tobacco                  food/Beverage                     soap/pharma
+PVC conveyor             PVC conveyor                PVC conveyo(P)                                PVC conveyor(S/W/P)     PVC conveyor             PVC conveyor                      PVC conveyor
+PU conveyor                                                                                        PU conveyor(P)          PU conveyor              PU conveyor                       PU conveyor
+cleated conveyor                                                                                                                                    cleated conveyor                  cleated conveyor
+side wall conveyor                                                                                                         side wall conveyor       side wall conveyor                side wall conveyor
+rough top                                            rough top(P)
+PVK conveyor belt
+modular conveyor                                                                                                           modular conveyor         modular conveyor                  modular conveyor
+                        flat belts                                                                 flat belts(W)
+                        power transmission
+                        doctor blade
+                        circular knife bottom knife
+                        docotr holder
+                        sheet cutter conveyor
+                        uhmw water elements
+                        rotary
+                        gear pinnion 
+                                                                              jogger belt
+                        timing belts                                                                                        timing belts            timing belts                       timing belts 
+                        scotch bright    
+                                                    marble industry conveyor
+                                                                                                  spinning
+                                                                                                  spike wooden lattice(S/W)
+                                                                                                  spike alluminium lattice(S)
+                                                                                                  spindle tape(S/W)
+                                                                                                  TFO belts(S)
+                                                                                                  openend belts(S)
+                                                                                                  blowroom lattices(S)
+                                                                                                  trolly wheel(S/W)         trolly wheel                                                trolly wheel
+                                                                                                  lifting tape(S)
+                                                                                                  poly lattice(W)
+                                                                                                  poly spike lattice(W)
+                                                                                                  wooden plain lattice(W)/
+                                                                                                  rubbing apron(W)
+                                                                                                  condenser tape(W)
+                                                                                                  combing leather (W)
+                                                                                                  high temperature belts(W)                         high temperature belts
+                                                                                                  mesh belts(W)
+                                                                                                  PTFE(W)
+                                                                                                                                                    slat chain                           slat chain
+                                                                                                                                                                                        UHMW strips 
+                                                                                                                                                    food grade conveyor belts
+                                                                                                                                                    special silicon belts
+                                                                                                                                                    elasticity conveyor belts 
+                        rubber conveyor belts                                                                                                       rubber conveyor belts
+
+
+
+1 paper
+2 textiles
+3 food and beverage
+4 soap and pharma
+5 packaging
+6 plywood and marble
+7 tobacco
+8 gym & treadmill equpments
+
+
+
+
+#Tradify API key
+Client Id: kaGA65sIl79IdXxr3lnGs7J2C9CywQtJ
+Client secret: ueeKzJOEh0fh6Dh8
+
+
+
+cupidcartoons Login details
+username = cupidcartoons@gmail.com
+password = DRWJ4#BJU#Q
+
+
+
+
+
+/* database details of Proven Energy */
+username = u945715491_proven
+database = u945715491_proven
+password = F&qXrIb4M
+
+
+/* login details of alpha dreams site */
+username = alphadream
+password = N8rtG&27Yd09kZe#9k
+
+
+// FTP details of Alpha Dreams
+ip = 198.12.234.250
+username = alpha@alphadreamhomes.ca
+password = $){j8ohOD#!x
+
+
+
+
+
+
+sell phone open in same tob
+appointment booked between 6am to 9pm
+
+
+
+
+
+
+// for gangaa website of anoop sir
+username = gangaa@gmail.com
+password = S9FR0LDvw!
+
+
+// for razorpay
+razorpay username = mdoshail63312@gmail.com
+razorpay password = Md63312@#
+
+
+
+username = annerley@themobilehub.com.au
+password = TMH@12345#
+
+
+deleted DNS
+txt	             @	                  v=spf1 include:dc-aa8e722993._spfm.themobilehub.com.au ~all	                       1 Hour
+
+
+
+
+
+
+
+
+hostinger details of kamalpreet Client
+username = Kurandhillon@gmail.com
+password = Kuran@#234$%
+
+
+sahib films wordpress login details
+username = kurandhillon@gmail.com
+password = Z9h|6aBeYxL
+
+
+
+sahib films FTP login details
+ip = 
+username = u738858362.sahibfilms
+password = Dhillon1986@
+
+
+Clear house wordpress login details
+username = Clearhosue
+password = Clear35@#$
+
+
+
+
+
+
+
+
+
+
+
+
+// from blog list page in lifeincan old site 
+@section('scripts')
+<!-- <script>
+    // JavaScript
+    $(function() {
+        var table = $('.data-table').DataTable({
+            processing: true,
+            serverSide: true,
+            ajax: "{{ route('blog.list') }}",
+            columns: [{
+                    data: 'DT_RowIndex',
+                    name: 'DT_RowIndex'
+                },
+                {
+                    data: 'blogtitle',
+                    name: 'blogtitle'
+                },
+                {
+                    data: 'blognote',
+                    name: 'blognote',
+                    render: function(data, type, full, meta) {
+                        var plainText = $('<div>').html(data).text();
+                        var words = plainText.split(/\s+/);
+                        var truncated = words.slice(0, 30).join(' ');
+                        if (words.length > 30) {
+                            truncated += '... <button class="view-more-btn btn btn-link" data-toggle="modal" data-target="#blogNoteModal" data-blog-note="' + data + '">View More</button>';
+                        }
+                        return '<span class="truncated-blog-note">' + truncated + '</span>';
+                    }
+                },
+                {
+                    data: 'uploadFile',
+                    name: 'uploadFile',
+                    render: function(data, type, full, meta) {
+                        var imageUrl = '{{ asset("admin_assets/blog") }}' + '/' + data;
+                        return '<img src="' + imageUrl + '" alt="Image" height="60" width="60" class="objectFit"/>';
+                    }
+                },
+                {
+                    data: 'category',
+                    name: 'category'
+                },
+                {
+                    data: 'added_by',
+                    name: 'added_by',
+                    render: function(data, type, full, meta) {
+                        return data; 
+                    }
+                },
+                {
+                    data: 'status',
+                    name: 'status',
+                    render: function(data, type, full, meta) {
+                        if (data == 1) {
+                            return '<div class="d-flex align-items-center"><i class="fas fa-check-circle text-success mr-2"></i><span>Published</span> </div>';
+                        } else {
+                            return '<div class="d-flex align-items-center"><i class="fas fa-times-circle text-danger mr-2"></i><span>Unpublished</span></div>';
+                        }
+                    }
+                },
+                {
+                    data: 'status',
+                    name: 'status',
+                    render: function(data, type, full, meta) {
+                        var statusHtml = '';
+                        statusHtml += '<select class="status-dropdown form-control" data-blog-id="' + full.id + '">';
+                        statusHtml += '<option value="1"' + (data == 1 ? ' selected' : '') + '>Published</option>';
+                        statusHtml += '<option value="0"' + (data == 0 ? ' selected' : '') + '>Unpublished</option>';
+                        statusHtml += '</select>';
+                        return statusHtml;
+                    }
+                },
+
+                {
+                    data: 'action',
+                    name: 'action',
+                    orderable: false,
+                    searchable: false
+                }
+            ]
+        });
+
+        // Handle click event for the "View More" button
+        $('.data-table tbody').on('click', '.view-more-btn', function() {
+            var blogNote = $(this).data('blog-note');
+            showBlogNoteModal(blogNote);
+        });
+
+        function showBlogNoteModal(blogNote) {
+            // Remove HTML tags and attributes using regex
+            var plainText = blogNote.replace(/<\/?[^>]+(>|$)/g, '');
+            $('#blogNoteContent').text(plainText);
+            $('#blogNoteModal').modal('show');
+        }
+        // In your existing script
+
+        $('.data-table tbody').on('change', '.status-dropdown', function() {
+            var blogId = $(this).data('blog-id');
+            var newStatus = $(this).val();
+
+            $.ajax({
+                url: "{{ route('blog.update.status') }}",
+                method: 'POST',
+                data: {
+                    id: blogId,
+                    status: newStatus,
+                    _token: '{{ csrf_token() }}'
+                },
+                success: function(response) {
+                    if (response.success) {
+                        // Update successful
+                        table.ajax.reload();
+                    } else {
+                        // Update failed
+                        // You can provide feedback to the user here if needed
+                    }
+                },
+                error: function(xhr, status, error) {
+                    // Handle errors
+                }
+            });
+        });
+
+    });
+
+    //delte the blog
+    function confirmDelete(e) {
+        var url = '{{ route("blog.destroy", ":id") }}';
+        url = url.replace(':id', e);
+
+        $.ajaxSetup({
+            headers: {
+                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+            }
+        });
+        swal({
+            title: "Blog Data Delete",
+            text: "Are You Sure Want to Delete!",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#3085d6",
+            cancelButtonColor: "#d33",
+            confirmButtonText: "Yes"
+        }).then((result) => {
+            if (result) {
+                $.ajax({
+                    url: url,
+                    type: "delete",
+                    success: function(data) {
+                        window.location.href = "{{route('blog.list')}}";
+                    }
+                })
+            }
+        })
+    }
+</script> -->
+@stop
+
+
+uniqe email for save 
+'email' =>  'required|email|unique:users,email',
+
+for update
+'email' => ['required','email',Rule::unique('users', 'email')->ignore($request->input("user_id")),],
+
+
+
+
+// Stream account of game app
+username = Sohail6363
+password = IGEC8iZDBnXXqct
+
+
+
+email account of Gymlye
+email = support@gymlye.com
+password = UW19F!Xn4
+
+
+new password of email Packerbuddy
+email = info@packerbuddy.com
+password = m2A49$|C
+
+
+new password of email nkcreatives
+email = info@nkcreatives.com
+password = Bk!9i?!H
+
+
+seruce my grade database
+username = u945715491_securemygrade
+database = u945715491_securemygrade
+password = 2DTsPRrm
+
+FTP details of Sercue My grade
+ip = 212.1.208.194
+username = u945715491.securemygrade
+password = E2!oCe$6UeB7Xh
+
+
+
+
+
+// My Freelancing Account
+link = https://freelancing.com/
+id = mohdsohail4041@gmail.com
+password = ubX$%12#v@3
+
+
+
+// My Fiverr Account
+link = https://www.fiverr.com/
+id = mohdsohail4041@gmail.com
+password = ubX$%12#v@3
